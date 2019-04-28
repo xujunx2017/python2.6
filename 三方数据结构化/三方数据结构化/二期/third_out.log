@@ -1,0 +1,23 @@
+..............................................脚本开始运行:staring.............................................
+.............................................打开文件baiqishi_gpscountrycheck.ini.............................................
+---------------------------------------------正在校验third_bqs_gps_country_check表字段---------------------------------------------
+idCard字段为加密字段不用效验
+mobile字段为加密字段不用效验
+longitude 字段在json中的值为[112.64716]，在hive数据库的值为[u'112.64716']
+latitude 字段在json中的值为[23.819426]，在hive数据库的值为[u'23.819426']
+resultCode字段效验通过
+resultDesc字段效验通过
+flowNo字段效验通过
+resultData.isSuccess字段效验通过
+resultData.checkCode字段效验通过
+resultData.checkDesc字段效验通过
+resultData.completeName字段效验通过
+resultData.country字段效验通过
+resultData.province字段效验通过
+resultData.county字段效验通过
+resultData.city字段效验通过
+resultData.code字段效验通过
+resultData.pcode字段效验通过
+resultData.level字段效验通过
+queryTime字段效验通过
+
